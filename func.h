@@ -1,5 +1,6 @@
 #pragma once
+#include <stdio.h>
+#include <math.h>
+#include <iostream>
 extern double x, result;
-namespace Kiseleva {
-	void f();
-}
+void f();
