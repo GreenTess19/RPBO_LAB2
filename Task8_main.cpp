@@ -1,6 +1,5 @@
 #include "func.h";
 
-
 int main()
 {
 	cout << "x = " << x << endl;
