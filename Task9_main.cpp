@@ -1,8 +1,5 @@
-﻿#include <iostream>
-#include <iomanip> 
-#include "func.h";
+#include "kiseleva.h"
 
-using namespace std;
 int main()
 {
 	cout << "x = " << x << endl;
